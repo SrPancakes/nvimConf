@@ -26,7 +26,7 @@ return {
         enable = true,
         arrayIndex = "Disable",
         await = true,
-        paramName = "Disable",
+        paramName = "All",
         paramType = true,
         semicolon = "All",
         setType = false,
