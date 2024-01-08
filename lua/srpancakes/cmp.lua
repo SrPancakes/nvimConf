@@ -43,6 +43,7 @@ function M.config()
   local cmp = require "cmp"
   local luasnip = require "luasnip"
   require("luasnip/loaders/from_vscode").lazy_load()
+
   require("luasnip").filetype_extend("typescriptreact", { "html" })
 
   local check_backspace = function()
@@ -50,7 +51,7 @@ function M.config()
     return col == 0 or vim.fn.getline("."):sub(col, col):match "%s"
   end
 
-  local icons = require "user.icons"
+  local icons = require "srpancakes.icons"
 
   cmp.setup {
     snippet = {
