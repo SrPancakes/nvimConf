@@ -23,7 +23,7 @@ return {
         },
       },
       hint = {
-        enable = false,
+        enable = true,
         arrayIndex = "Disable",
         await = true,
         paramName = "Disable",
