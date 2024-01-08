@@ -1,4 +1,7 @@
 require ('srpancakes.launch')
 require ('srpancakes.options')
 require ('srpancakes.keymaps')
+spec ('srpancakes.colorscheme')
+spec ('srpancakes.devicons')
+spec ('srpancakes.treesitter')
 require ('srpancakes.lazy')
