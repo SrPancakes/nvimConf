@@ -14,6 +14,7 @@
   "copilot-lualine": { "branch": "main", "commit": "4dd368bed56c424b4a6822ad007b7540d472ae6d" },
   "copilot.lua": { "branch": "master", "commit": "b03617a6dc4bc88b65ab5deac1631da9a9c2dcaf" },
   "darkplus.nvim": { "branch": "master", "commit": "4c5a8fd9aedc199bb21eb8392716f6b18a486f70" },
+  "eyeliner.nvim": { "branch": "main", "commit": "c540d58bf52aa979d4cca639c60387ae0c0ccf88" },
   "friendly-snippets": { "branch": "main", "commit": "69a2c1675b66e002799f5eef803b87a12f593049" },
   "harpoon": { "branch": "master", "commit": "ccae1b9bec717ae284906b0bf83d720e59d12b91" },
   "lab.nvim": { "branch": "main", "commit": "0d02cecd5281da43b9c3ae1658a4eb16ca33ed8e" },
