@@ -2,7 +2,7 @@ local M = {
   'nvim-telescope/telescope.nvim',
   dependencies = {
     { 'nvim-telescope/telescope-fzf-native.nvim', build = 'make', lazy = true },
-    { 'nvim-telescope/telescope-file-browser.nvim', lazy = true },
+    { 'nvim-telescope/telescope-file-browser.nvim' },
   },
   lazy = true,
   cmd = 'Telescope',
@@ -11,6 +11,7 @@ local M = {
 function M.config()
   local icons = require 'srpancakes.icons'
   local actions = require 'telescope.actions'
+  local fb_actions = require('telescope').extensions.file_browser.actions
 
   require('telescope').setup {
     defaults = {
@@ -117,7 +118,6 @@ function M.config()
         override_file_sorter = true, -- override the file sorter
         case_mode = 'smart_case', -- or "ignore_case" or "respect_case"
       },
-
     },
   }
 
