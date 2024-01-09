@@ -12,6 +12,8 @@ local M = {
     "rouge8/neotest-rust",
     "lawrence-laz/neotest-zig",
     "rcasia/neotest-bash",
+    'alfaix/neotest-gtest',
+    "rcasia/neotest-java",
   },
 }
 
@@ -31,13 +33,14 @@ function M.config()
       require "neotest-python" {
         dap = { justMyCode = false },
       },
+      require 'neotest-gtest',
+      require 'neotest-java',
       require "neotest-vitest",
       require "neotest-zig",
-      require "neotest-vim-test" {
+      require "neotest-vim-test",
         ignore_file_types = { "python", "vim", "lua", "javascript", "typescript" },
       },
-    },
-  }
+    }
 end
 
 return M

@@ -26,6 +26,8 @@
   "neoscroll.nvim": { "branch": "master", "commit": "be4ebf855a52f71ca4338694a5696675d807eff9" },
   "neotest": { "branch": "master", "commit": "1ee3fcc150207f33dba8c9b3f478e5a0148d661d" },
   "neotest-bash": { "branch": "main", "commit": "2eaad2ae4577fadf4af1eec32ec169d0fb2698bb" },
+  "neotest-gtest": { "branch": "main", "commit": "6e794ac91f4c347e2ea5ddeb23d594f8fc64f2a8" },
+  "neotest-java": { "branch": "main", "commit": "2234bfa8044dc39a8baf90470747c65e4623a222" },
   "neotest-plenary": { "branch": "master", "commit": "dcaf5ed67a9e28a246e9783319e5aa6c9ea1c584" },
   "neotest-python": { "branch": "master", "commit": "86ac2bbc8a4da3f203e56d9303d6ed1d7e50c1f6" },
   "neotest-rust": { "branch": "main", "commit": "3c06f239ad260f02c8678141e08b57d20fbe2c55" },
