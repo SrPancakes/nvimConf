@@ -1,5 +1,7 @@
 <div align='center'>
 
+# Sr Pancakes Nvim Config
+
 ![srpancakes_logo](https://github.com/SrPancakes/nvimConf/assets/74025821/5c6b3786-b4d2-443b-a4be-51710a36b26c)
 
   ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/SrPancakes/nvimConf?style=for-the-badge&logo=github&logoColor=white)
@@ -9,7 +11,11 @@
   ![Static Badge](https://img.shields.io/badge/BuyMeACoffee-%40SrPancakes-%23FD0?style=for-the-badge&logo=buymeacoffee&logoColor=white&link=https%3A%2F%2Fwww.buymeacoffee.com%2Fsrpancakes)
 </div>
 
-A customizable modular IDE solution for Neovim
+<div align='center'>
+
+***A customizable modular IDE solution for Neovim***
+
+</div>
 
 ---
 
@@ -25,7 +31,12 @@ A customizable modular IDE solution for Neovim
 
 ---
 
-# Sr Pancakes Nvim Config
+## Showcase
+
+![showcase1](https://github.com/SrPancakes/nvimConf/assets/74025821/305c1f8f-b233-464a-910e-811a9c015c4b)
+![showcase2](https://github.com/SrPancakes/nvimConf/assets/74025821/c3582e6f-66b3-451b-af42-3fc8f6ba059a)
+
+## About
 
 This is my current neovim configuration. I'm using it on a daily basis as my main editor. I'm using it for web development, python, and (soon) latex. I'm also using it for writing markdown files and taking notes.
 
