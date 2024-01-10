@@ -4,16 +4,17 @@
 
 ![srpancakes_logo](https://github.com/SrPancakes/nvimConf/assets/74025821/5c6b3786-b4d2-443b-a4be-51710a36b26c)
 
-  ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/SrPancakes/nvimConf?style=for-the-badge&logo=github&logoColor=white)
-  ![GitHub issues](https://img.shields.io/github/issues/SrPancakes/nvimConf?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub License](https://img.shields.io/github/license/SrPancakes/nvimConf?style=for-the-badge&logo=github&logoColor=white)
-  ![GitHub repo size](https://img.shields.io/github/repo-size/SrPancakes/nvimConf?style=for-the-badge&logo=git&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/BuyMeACoffee-%40SrPancakes-%23FD0?style=for-the-badge&logo=buymeacoffee&logoColor=white&link=https%3A%2F%2Fwww.buymeacoffee.com%2Fsrpancakes)
+![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/SrPancakes/nvimConf?style=for-the-badge&logo=github&logoColor=white)
+![GitHub issues](https://img.shields.io/github/issues/SrPancakes/nvimConf?style=for-the-badge&logo=git&logoColor=white)
+![GitHub License](https://img.shields.io/github/license/SrPancakes/nvimConf?style=for-the-badge&logo=github&logoColor=white)
+![GitHub repo size](https://img.shields.io/github/repo-size/SrPancakes/nvimConf?style=for-the-badge&logo=git&logoColor=white)
+![Static Badge](https://img.shields.io/badge/BuyMeACoffee-%40SrPancakes-%23FD0?style=for-the-badge&logo=buymeacoffee&logoColor=white&link=https%3A%2F%2Fwww.buymeacoffee.com%2Fsrpancakes)
+
 </div>
 
 <div align='center'>
 
-***A customizable modular IDE solution for Neovim***
+**_A customizable modular IDE solution for Neovim_**
 
 </div>
 
@@ -104,8 +105,9 @@ Navigating this menu is as easy as pressing the key with the action you want to 
 
 There's also (not so) hidden menu that you can access with the mouse. You can access it by pressing the right mouse button. This menu is a bit more limited than the whichkey one, but it's still useful to have it around.
 ![mousemenu](https://github.com/SrPancakes/nvimConf/assets/74025821/f0df38f9-314c-4d90-a8fa-abc6c1733842)
->[!NOTE]
->Depending on the context, the mouse menu will change and show different options
+
+> [!NOTE]
+> Depending on the context, the mouse menu will change and show different options
 
 ## Plugins Installed
 
@@ -116,6 +118,15 @@ The list of installed plugins can be found on the [init.lua](./init.lua) file. A
 > Keep in mind that already installed plugins will still be installed, but they won't be loaded on startup. If you want to uninstall them is as easy as entering the lazy panel with `:Lazy` and clean up unloaded plugins with `^x`
 
 ## Basic Customization
+
+Themes are installed under the [colorscheme.lua](./lua/srpancakes/colorschemes.lua) file. You can change the theme by simply changing the package the function requires.
+>[!TODO]
+> An interesting implementation would be to add a list of themes and modify this function to require the theme desired. But as for me it seems a bit overkill since having the spec function implemented you can already create a folder with different colorschemes configurations and require them on the init.lua file. Anyways I'll leave it this way for now and may be changin it in the future. Meanwhile you can play with this things to get it right for you.
+Another interesting way of changing between themes is with the [Whichkey](#Which-Key) menu. You'll only have to type `<Leader>fc` and it will open a little pop-up menu with a list of available themes.
+
+>[!WARNING]
+>Still working on this section
+
 
 ## Get Healthy
 
