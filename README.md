@@ -56,8 +56,13 @@ Then run nvim and install and wait for the plugins to install automatically.
 Most commands can be found between the [whichkey](./lua/srpancakes/whichkey.lua) and [keymap](./lua/srpancakes/keymap.lua) files. But some mfiles map their own bindings, so here's a quick cheatsheet of the most important ones.
 
 ### [Which Key](https://github.com/folke/which-key.nvim)
+
 Which Key is a plugin that shows a popup with the available keybindings for the current mode. It's a great way to learn new keybindings and to remember the ones you don't use that often. You can display this menu with <Leader> key which in this config is mapped to be the <SpaceBar>
 ![whichkey screenshot](https://github.com/SrPancakes/nvimConf/assets/74025821/199a35e6-aa3a-43fe-8275-4da39acdd6fc)
+
+Navigating this menu is as easy as pressing the key with the action you want to perform. Is this option has nested actions you will see how the menu changes and show new commands. You can go back on the menu with <Backspace>. About commands and their usages, I'll let that for you to discover.
+>[!TIP]
+>Once you know the commands you want to use, you can use the <Leader> key to perform them without having to open the menu. For example, if you want to open the lazy panel you can press ```<Leader>lI``` and it will open it for you.
 
 ## Plugins Installed
 
