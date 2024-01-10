@@ -15,12 +15,12 @@ A customizable modular IDE solution for Neovim
 
 <div align='center'>
   
-  [<kbd> <br> Install <br> </kbd>](##Install-Neovim)
-  [<kbd> <br> Command Cheatsheet <br> </kbd>](##Command-Cheatsheet)
-  [<kbd> <br> Plugins <br> </kbd>](##Plugins-Installed)
-  [<kbd> <br> Basic Customization <br> </kbd>](##Basic-Customization)
-  [<kbd> <br> Get Healthy <br> </kbd>](##Get-Healthy)
-  
+  [<kbd> <br> INSTALL <br> </kbd>](##Install-Neovim)
+  [<kbd> <br> COMMAND CHEATSHEET <br> </kbd>](##Command-Cheatsheet)
+  [<kbd> <br> PLUGINS <br> </kbd>](##Plugins-Installed)
+  [<kbd> <br> BASIC CUSTOMIZATION <br> </kbd>](##Basic-Customization)
+  [<kbd> <br> GET HEALTHY <br> </kbd>](##Get-Healthy)
+
 </div>
 
 ---
