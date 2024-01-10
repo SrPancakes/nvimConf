@@ -161,3 +161,6 @@ You'll notice that some of the tests will fail. This is due to lack of some depe
 For this distro to work properly, I strongly recommend to install any [Nerd Font](https://www.nerdfonts.com/) of your liking. This in order to get the icons working properly. I'm currently using **_JetBrains Mono Nerd Font_** but you can get any of your choice.
 
 ---
+
+> The computing scientist's main challenge is not to get confused by the complexities of his own making.
+>-Edsger W. Dijkstra
