@@ -1,5 +1,5 @@
 <div align="center">
-    ![srpancakes_logo](https://github.com/SrPancakes/nvimConf/assets/74025821/5c6b3786-b4d2-443b-a4be-51710a36b26c)
+    <img src='https://github.com/SrPancakes/nvimConf/assets/74025821/5c6b3786-b4d2-443b-a4be-51710a36b26c' alt='logo' />
     <a href="https://github.com/lunarvim/LunarVim/releases/latest">
       <img alt="Latest release" src="https://img.shields.io/github/v/release/LunarVim/LunarVim?style=for-the-badge&logo=starship&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41" />
     </a>
