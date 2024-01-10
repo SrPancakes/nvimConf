@@ -3,6 +3,7 @@ local M = {
   event = { "BufReadPost", "BufNewFile" },
   build = ":TSUpdate",
 }
+---@diagnostic disable: missing-fields
 function M.config()
   require("nvim-treesitter.configs").setup {
     ensure_installed = {
