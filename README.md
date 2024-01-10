@@ -103,7 +103,9 @@ Navigating this menu is as easy as pressing the key with the action you want to 
 #### Mouse menu
 
 There's also (not so) hidden menu that you can access with the mouse. You can access it by pressing the right mouse button. This menu is a bit more limited than the whichkey one, but it's still useful to have it around.
-![mouse menu screenshot]()
+![mousemenu](https://github.com/SrPancakes/nvimConf/assets/74025821/f0df38f9-314c-4d90-a8fa-abc6c1733842)
+>[!NOTE]
+>Depending on the context, the mouse menu will change and show different options
 
 ## Plugins Installed
 
