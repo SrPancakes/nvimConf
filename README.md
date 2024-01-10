@@ -57,7 +57,7 @@ Most commands can be found between the [whichkey](./lua/srpancakes/whichkey.lua)
 
 ### [Which Key](https://github.com/folke/which-key.nvim)
 Which Key is a plugin that shows a popup with the available keybindings for the current mode. It's a great way to learn new keybindings and to remember the ones you don't use that often. You can display this menu with <Leader> key which in this config is mapped to be the <SpaceBar>
-[!whichkey screenshot](https://github.com/SrPancakes/nvimConf/assets/74025821/199a35e6-aa3a-43fe-8275-4da39acdd6fc)
+![whichkey screenshot](https://github.com/SrPancakes/nvimConf/assets/74025821/199a35e6-aa3a-43fe-8275-4da39acdd6fc)
 
 ## Plugins Installed
 
