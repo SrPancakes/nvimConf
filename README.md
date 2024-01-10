@@ -13,7 +13,11 @@ A customizable modular IDE solution for Neovim
 
 ---
 
-[<kbd> <br> Install <br> </kbd>](##Install-Neovim)
+<div align='center'>
+  
+  [<kbd> <br> Install <br> </kbd>](##Install-Neovim)
+  
+</div>
 
 ---
 
