@@ -47,5 +47,20 @@ git clone https://github.com/SrPancakes/nvimConf.git ~/.config/nvim
 ```
 
 Then run nvim and install and wait for the plugins to install automatically.
+
 > [!IMPORTANT]
 > This distribution is configured to fullfill my needs and likings, so you may encounter some things like parsers, formatters and linters you don't need or want to use or some plugins that you don't like. If that's the case, I recommend you to head the [customization section]() in order to know how to fine-tune this config and make it rock!
+
+## Command Cheatsheet
+
+## Plugins Installed
+ The list of installed plugins can be found on the [init.lua](./init.lua) file. As this build is intended to be as modular as possible, the plugins have a configuration file for each one down in the [user](./lua/srpancakes/) and the [extras](./lua/srpancakes/extras/).
+>[!TIP]
+>This way you can activate/deactivate plugins by simply commenting the require line on the [init.lua](./init.lua) file.
+>Keep in mind that already installed plugins will still be installed, but they won't be loaded on startup. If you want to uninstall them is as easy as entering the lazy panel with ```:Lazy``` and clean up unloaded plugins with ```^x```
+
+## Basic Customization 
+
+## Get Healthy
+
+## Fonts
