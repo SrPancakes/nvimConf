@@ -1,32 +1,6 @@
-# Sr Pancakes Nvim Config
+![srpancakes_logo](https://github.com/SrPancakes/nvimConf/assets/74025821/5c6b3786-b4d2-443b-a4be-51710a36b26c)
 
-```
-                                  :*#*-
-                                =%%%%%@@+
-                              =%%%%%%%@@@@:
-                             *%%%%%%%%%@@@@*
-                           .#%%%%%%%%%%%@@@@*
-                           #%%%%%%%%%%%%%@@@@*
-                          %%%%%%%%%%%%%@@@@@@@+
-                         *#%%%%%%%%%%%%%%%%%@@@*
-                        +%%%%%%%%%%%%%%#%%%%@@@@%.
-                       *%%%@@%:  :*****   .-#=:%@*
-                      =%%#==++:   .*.==   :-==#%%:
-                       #@@@%#%=:  -   :=:+%%%%%=
-                       =%%%%@@@@:     .  #%@@@@@+
-                     :%%%%%%%%%%# .%@@* :@@%@@%@@%:
-                    -#%%%%#%%#%%%%=-%*=*@@%@@%%@@@@-
-                   *%*.............................*%
-                   #%=                .:....:   :=.=@-
-                  :%%+                      :*###= +@*        .
-                  *%%*                       .::::.*@%        .
-                 +%%%%                         ::-.%@@*  .=*****
-                +%%%%%.                       .=*=.@@@@* =*%%%%%:
-               .%%%%%%-                        .-:-%%@@@:.===+++
-               -%%%%%%*                       :--:+@@@@@= ++***+
-               .%%%%%%%                   : ::.=*-%@@@@%  ++***=
-                  .:-==.                . .  . ..:*=:.    ::-==
-```
+# Sr Pancakes Nvim Config
 
 This is my current neovim configuration. I'm using it on a daily basis as my main editor. I'm using it for web development, python, and (soon) latex. I'm also using it for writing markdown files and taking notes.
 
@@ -89,6 +63,7 @@ Navigating this menu is as easy as pressing the key with the action you want to 
 
 > [!NOTE]
 > This is a custom mapping that I find very useful because it allows you to indent and unindent multiple lines at once keeping visual mode instead of quitting once you perform the indentation.
+
 
 #### Mouse menu
 
