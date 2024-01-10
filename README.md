@@ -21,11 +21,11 @@
 
 <div align='center'>
   
-  [<kbd> <br> INSTALL <br> </kbd>](##Install-Neovim)
-  [<kbd> <br> COMMAND CHEATSHEET <br> </kbd>](##Command-Cheatsheet)
-  [<kbd> <br> PLUGINS <br> </kbd>](##Plugins-Installed)
-  [<kbd> <br> BASIC CUSTOMIZATION <br> </kbd>](##Basic-Customization)
-  [<kbd> <br> GET HEALTHY <br> </kbd>](##Get-Healthy)
+  [<kbd> <br> INSTALL <br> </kbd>](#Install-Neovim)
+  [<kbd> <br> COMMAND CHEATSHEET <br> </kbd>](#Command-Cheatsheet)
+  [<kbd> <br> PLUGINS <br> </kbd>](#Plugins-Installed)
+  [<kbd> <br> BASIC CUSTOMIZATION <br> </kbd>](#Basic-Customization)
+  [<kbd> <br> GET HEALTHY <br> </kbd>](#Get-Healthy)
 
 </div>
 
