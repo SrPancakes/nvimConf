@@ -1,10 +1,22 @@
+
+<div align='center'>
+
 ![srpancakes_logo](https://github.com/SrPancakes/nvimConf/assets/74025821/5c6b3786-b4d2-443b-a4be-51710a36b26c)
 
-![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/SrPancakes/nvimConf?style=for-the-badge&logo=github&logoColor=white)
-![GitHub issues](https://img.shields.io/github/issues/SrPancakes/nvimConf?style=for-the-badge&logo=git&logoColor=white)
-![GitHub License](https://img.shields.io/github/license/SrPancakes/nvimConf?style=for-the-badge&logo=github&logoColor=white)
-![GitHub repo size](https://img.shields.io/github/repo-size/SrPancakes/nvimConf?style=for-the-badge&logo=git&logoColor=white)
-![Static Badge](https://img.shields.io/badge/BuyMeACoffee-%40SrPancakes-%23FD0?style=for-the-badge&logo=buymeacoffee&logoColor=white&link=https%3A%2F%2Fwww.buymeacoffee.com%2Fsrpancakes)
+  ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/SrPancakes/nvimConf?style=for-the-badge&logo=github&logoColor=white)
+  ![GitHub issues](https://img.shields.io/github/issues/SrPancakes/nvimConf?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub License](https://img.shields.io/github/license/SrPancakes/nvimConf?style=for-the-badge&logo=github&logoColor=white)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/SrPancakes/nvimConf?style=for-the-badge&logo=git&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/BuyMeACoffee-%40SrPancakes-%23FD0?style=for-the-badge&logo=buymeacoffee&logoColor=white&link=https%3A%2F%2Fwww.buymeacoffee.com%2Fsrpancakes)
+</div>
+
+A customizable modular IDE solution for Neovim
+
+---
+
+[<kbd> <br> Install <br> </kbd>](##Install-Neovim)
+
+---
 
 # Sr Pancakes Nvim Config
 
