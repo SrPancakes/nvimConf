@@ -120,14 +120,44 @@ The list of installed plugins can be found on the [init.lua](./init.lua) file. A
 ## Basic Customization
 
 Themes are installed under the [colorscheme.lua](./lua/srpancakes/colorschemes.lua) file. You can change the theme by simply changing the package the function requires.
->[!TODO]
+
+> [!NOTE]
 > An interesting implementation would be to add a list of themes and modify this function to require the theme desired. But as for me it seems a bit overkill since having the spec function implemented you can already create a folder with different colorschemes configurations and require them on the init.lua file. Anyways I'll leave it this way for now and may be changin it in the future. Meanwhile you can play with this things to get it right for you.
-Another interesting way of changing between themes is with the [Whichkey](#Which-Key) menu. You'll only have to type `<Leader>fc` and it will open a little pop-up menu with a list of available themes.
+> Another interesting way of changing between themes is with the [Whichkey](#Which-Key) menu. You'll only have to type `<Leader>fc` and it will open a little pop-up menu with a list of available themes.
 
->[!WARNING]
->Still working on this section
-
+> [!WARNING]
+> Still working on this section
 
 ## Get Healthy
 
+Open nvim and enter the following command:
+
+```
+:checkhealth
+```
+
+This will run a series of tests and provide you information about the health of your nvim installation.
+You'll notice that some of the tests will fail. This is due to lack of some dependencies. Here's an example of how to set up the support for python and nodejs:
+
+- Neovim Python support
+  - Install python3 and pip3
+  - Install the neovim python package with pip3
+    ```
+    pip3 install pynvim
+    ```
+
+- Neovim node support
+  - Install nodejs and npm
+  - Install the neovim node package with npm
+    ```
+    npm install -g neovim
+    ```
+
+>[!NOTE]
+>Here's the example of how to install node support with npm, but you can use any node package manager you want. I personally use bun, but this relies totally on your personal preferences.
+
 ## Fonts
+
+For this distro to work properly, I strongly recommend to install any [Nerd Font](https://www.nerdfonts.com/) of your liking. This in order to get the icons working properly. I'm currently using **_JetBrains Mono Nerd Font_** but you can get any of your choice.
+
+---
