@@ -1,5 +1,5 @@
-![srpancakes_logo](https://github.com/SrPancakes/nvimConf/assets/74025821/5c6b3786-b4d2-443b-a4be-51710a36b26c)
 <div align="center">
+    ![srpancakes_logo](https://github.com/SrPancakes/nvimConf/assets/74025821/5c6b3786-b4d2-443b-a4be-51710a36b26c)
     <a href="https://github.com/lunarvim/LunarVim/releases/latest">
       <img alt="Latest release" src="https://img.shields.io/github/v/release/LunarVim/LunarVim?style=for-the-badge&logo=starship&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41" />
     </a>
@@ -28,6 +28,7 @@
   <p align="center">
     <img src="https://stars.medv.io/LunarVim/LunarVim.svg", title="commits"/>
   </p>
+</div>
 
 # Sr Pancakes Nvim Config
 
@@ -82,8 +83,8 @@ Navigating this menu is as easy as pressing the key with the action you want to 
 `N` - Move to the previous search result\
 `*` - Search for the word under the cursor\
 `#` - Search for the word under the cursor backwards\
-`g*` - Search for the word under the cursor _no case sensitive\
-`g#` - Search for the word under the cursor backwards _no case sensitive\
+`g*` - Search for the word under the cursor \_no case sensitive\
+`g#` - Search for the word under the cursor backwards \_no case sensitive\
 
 #### Indentation on visual mode
 
@@ -92,7 +93,6 @@ Navigating this menu is as easy as pressing the key with the action you want to 
 
 > [!NOTE]
 > This is a custom mapping that I find very useful because it allows you to indent and unindent multiple lines at once keeping visual mode instead of quitting once you perform the indentation.
-
 
 #### Mouse menu
 
@@ -112,5 +112,3 @@ The list of installed plugins can be found on the [init.lua](./init.lua) file. A
 ## Get Healthy
 
 ## Fonts
-
-</div>
