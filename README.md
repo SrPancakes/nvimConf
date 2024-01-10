@@ -53,13 +53,21 @@ Then run nvim and install and wait for the plugins to install automatically.
 
 ## Command Cheatsheet
 
-## Plugins Installed
- The list of installed plugins can be found on the [init.lua](./init.lua) file. As this build is intended to be as modular as possible, the plugins have a configuration file for each one down in the [user](./lua/srpancakes/) and the [extras](./lua/srpancakes/extras/).
->[!TIP]
->This way you can activate/deactivate plugins by simply commenting the require line on the [init.lua](./init.lua) file.
->Keep in mind that already installed plugins will still be installed, but they won't be loaded on startup. If you want to uninstall them is as easy as entering the lazy panel with ```:Lazy``` and clean up unloaded plugins with ```^x```
+Most commands can be found between the [whichkey](./lua/srpancakes/whichkey.lua) and [keymap](./lua/srpancakes/keymap.lua) files. But some mfiles map their own bindings, so here's a quick cheatsheet of the most important ones.
 
-## Basic Customization 
+### [Which Key](https://github.com/folke/which-key.nvim)
+Which Key is a plugin that shows a popup with the available keybindings for the current mode. It's a great way to learn new keybindings and to remember the ones you don't use that often. You can display this menu with <Leader> key which in this config is mapped to be the <SpaceBar>
+[!whichkey screenshot](https://github.com/SrPancakes/nvimConf/assets/74025821/199a35e6-aa3a-43fe-8275-4da39acdd6fc)
+
+## Plugins Installed
+
+The list of installed plugins can be found on the [init.lua](./init.lua) file. As this build is intended to be as modular as possible, the plugins have a configuration file for each one down in the [user](./lua/srpancakes/) and the [extras](./lua/srpancakes/extras/).
+
+> [!TIP]
+> This way you can activate/deactivate plugins by simply commenting the require/spec line on the [init.lua](./init.lua) file.
+> Keep in mind that already installed plugins will still be installed, but they won't be loaded on startup. If you want to uninstall them is as easy as entering the lazy panel with `:Lazy` and clean up unloaded plugins with `^x`
+
+## Basic Customization
 
 ## Get Healthy
 
