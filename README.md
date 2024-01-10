@@ -69,23 +69,23 @@ Navigating this menu is as easy as pressing the key with the action you want to 
 
 #### Window Navigation
 
-`m-h` - Move to the window on the left
-`m-j` - Move to the window below
-`m-k` - Move to the window above
-`m-l` - Move to the window on the right
-`m-tab` - Alternate between windows in current buffer
+`m-h` - Move to the window on the left\
+`m-j` - Move to the window below\
+`m-k` - Move to the window above\
+`m-l` - Move to the window on the right\
+`m-tab` - Alternate between windows in current buffer\
 
-`n` - Move to the next search result
-`N` - Move to the previous search result
-`*` - Search for the word under the cursor
-`#` - Search for the word under the cursor backwards
-`g*` - Search for the word under the cursor _no case sensitive_
-`g#` - Search for the word under the cursor backwards _no case sensitive_
+`n` - Move to the next search result\
+`N` - Move to the previous search result\
+`*` - Search for the word under the cursor\
+`#` - Search for the word under the cursor backwards\
+`g*` - Search for the word under the cursor _no case sensitive\
+`g#` - Search for the word under the cursor backwards _no case sensitive\
 
 #### Indentation on visual mode
 
-`>` - Indent
-`<` - Unindent
+`>` - Indent\
+`<` - Unindent\
 
 > [!NOTE]
 > This is a custom mapping that I find very useful because it allows you to indent and unindent multiple lines at once keeping visual mode instead of quitting once you perform the indentation.
