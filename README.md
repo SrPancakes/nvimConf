@@ -16,6 +16,10 @@ A customizable modular IDE solution for Neovim
 <div align='center'>
   
   [<kbd> <br> Install <br> </kbd>](##Install-Neovim)
+  [<kbd> <br> Command Cheatsheet <br> </kbd>](##Command-Cheatsheet)
+  [<kbd> <br> Plugins <br> </kbd>](##Plugins-Installed)
+  [<kbd> <br> Basic Customization <br> </kbd>](##Basic-Customization)
+  [<kbd> <br> Get Healthy <br> </kbd>](##Get-Healthy)
   
 </div>
 
