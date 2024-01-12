@@ -8,8 +8,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/SrPancakes/nvimConf?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub License](https://img.shields.io/github/license/SrPancakes/nvimConf?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub repo size](https://img.shields.io/github/repo-size/SrPancakes/nvimConf?style=for-the-badge&logo=git&logoColor=white)
-![Static Badge](https://img.shields.io/badge/BuyMeACoffee-%40SrPancakes-%23FD0?style=for-the-badge&logo=buymeacoffee&logoColor=white&link=https%3A%2F%2Fwww.buymeacoffee.com%2Fsrpancakes)
-
+![Static Badge](https://img.shields.io/badge/BuyMeACoffee-%40SrPancakes-%23FD0?style=for-the-badge&logo=buymeacoffee&logoColor=white&link=https://www.buymeacoffee.com/srpancakes)
 </div>
 
 <div align='center'>
@@ -162,5 +161,5 @@ For this distro to work properly, I strongly recommend to install any [Nerd Font
 
 ---
 
-> The computing scientist's main challenge is not to get confused by the complexities of his own making.
+> The computing scientist's main challenge is not to get confused by the complexities of his own making.\
 >-Edsger W. Dijkstra
