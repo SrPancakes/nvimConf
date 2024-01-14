@@ -13,23 +13,23 @@ function M.config()
     workspaces = {
       {
         name = 'personal',
-        path = '~/notes/personal',
+        path = '~/second-brain/personal',
       },
       {
         name = 'work',
-        path = '~/notes/work',
+        path = '~/second-brain/work',
       },
       {
         name = 'college',
-        path = '~/notes/college',
+        path = '~/second-brain/college',
       },
       {
         name = 'projects',
-        path = '~/notes/projects',
+        path = '~/second-brain/projects',
       },
       {
         name = 'scratch',
-        path = '~/notes/scratch',
+        path = '~/second-brain/scratch',
       },
     },
 

@@ -7,28 +7,28 @@ return {
         enable = false,
       },
       diagnostics = {
-        globals = { "vim", "spec" },
+        globals = { 'vim', 'spec' },
       },
       runtime = {
-        version = "LuaJIT",
+        version = 'LuaJIT',
         special = {
-          spec = "require",
+          spec = 'require',
         },
       },
       workspace = {
         checkThirdParty = false,
         library = {
-          [vim.fn.expand "$VIMRUNTIME/lua"] = true,
-          [vim.fn.stdpath "config" .. "/lua"] = true,
+          [vim.fn.expand '$VIMRUNTIME/lua'] = true,
+          [vim.fn.stdpath 'config' .. '/lua'] = true,
         },
       },
       hint = {
         enable = true,
-        arrayIndex = "Disable",
+        arrayIndex = 'Disable',
         await = true,
-        paramName = "All",
+        paramName = 'All',
         paramType = true,
-        semicolon = "All",
+        semicolon = 'All',
         setType = false,
       },
       telemetry = {
